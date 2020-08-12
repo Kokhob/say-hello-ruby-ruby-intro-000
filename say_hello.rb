@@ -1,8 +1,8 @@
 def say_hello(name = "Ruby programmer")
-  puts "Hello, #{Gabriela}"
+  puts "Hello, #{name}"
 end
 
-say_hello(Gabriela)
+say_hello("Gabriela")
 
 
 
